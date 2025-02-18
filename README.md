@@ -1,4 +1,4 @@
-# Hi, I'm Ken 👋
+# Hi, I'm Ken! 😃
 
 ## 🚀 About Me
 
@@ -78,6 +78,6 @@ I'm a frontend developer specializing in **high-performance React applications**
 
 ---
 
-⭐ Many of my projects are hosted on private company repositories (GitHub/GitLab). Feel free to reach out for more details!
+👀 Many of my projects are hosted on private company repositories (GitHub/GitLab). Feel free to reach out for more details!
 
-⭐ "I'm always excited to collaborate on innovative projects. Feel free to connect!"
+😄 "I'm always excited to collaborate on innovative projects. Feel free to connect!"
