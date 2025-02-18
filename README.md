@@ -91,11 +91,11 @@ I'm a frontend developer specializing in **high-performance React applications**
 
 ## 📫 Connect with Me
 
-- LinkedIn: [Your LinkedIn](#)
-- GitHub: [Your GitHub](#)
-- Portfolio: [Your Portfolio](#)
+- LinkedIn: [www.linkedin.com/in/kentauchi](https://www.linkedin.com/in/kentauchi)
+- Portfolio: [www.kentauchi.com](https://www.kentauchi.com)
 
 ---
 
 ⭐ Many of my projects are hosted on private company repositories (GitHub/GitLab). Feel free to reach out for more details!
+
 ⭐ "I'm always excited to collaborate on innovative projects. Feel free to connect!"
