@@ -71,24 +71,6 @@ I'm a frontend developer specializing in **high-performance React applications**
 - **Impact:** Increased demand for website creation across Langara College departments
 - [🔗 Live Demo](https://langara-app.ca/)
 
-## 🌟 Testimonials
-
-### ⭐ Tyler Yan - Project Manager
-
-"Ken really stood out on our team for his rapid advancement and eagerness to tackle new challenges. He significantly improved our codebase and the overall product. Incredibly reliable, Ken was our go-to person when things were on fire."
-
-### ⭐ Otavio Augusto - Senior Software Developer
-
-"Ken has an incredible talent for turning every code review and architecture discussion into a learning opportunity. His commitment to test-driven development resulted in robust and maintainable code."
-
-### ⭐ Tomoko Okochi - Project Manager
-
-"Ken has led the development team by quickly adapting to new technology and offering help anytime. He is a fast learner and a great asset to any team."
-
-### ⭐ Hiteshri Nanda - UI/UX & Visual Designer
-
-"Ken is someone we can rely on. As a designer, I know he will code and deliver any tricky design exactly like the mock-up!"
-
 ## 📫 Connect with Me
 
 - LinkedIn: [www.linkedin.com/in/kentauchi](https://www.linkedin.com/in/kentauchi)
