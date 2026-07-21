@@ -69,10 +69,22 @@ I treat AI as a core part of my engineering workflow, not an afterthought. My **
 
 ### 🔹 White-Label Ordering App (WLA) — Web & Native
 
-- **Description:** Built from scratch a white-label online ordering platform for restaurants, shipping as both a responsive **web app** and a **native iOS/Android app** from a shared codebase. Customers browse menus, customize items, manage carts, and check out — with support for pickup, delivery, group orders, gift cards, and rewards.
+- **Description:** Architected and built from scratch a **scalable, multi-tenant white-label ordering platform** that serves **unlimited restaurant brands from one shared codebase**. Each organization gets a fully branded experience — its own theme, logo, menus, pricing, and configuration — driven entirely by data, so a new client can be onboarded and go live **without any code changes**. The same platform ships as a responsive **web app** and **native iOS/Android apps**, supporting pickup, delivery, group orders, gift cards, and rewards.
 - **Tech Stack:** React, React Native, Expo, Expo Router, TypeScript, TanStack Query, Zustand, Firebase, Tailwind/Uniwind, Stripe
-- **Impact:** Powers live ordering for real restaurant brands as the 3.0 replacement for the legacy platform.
-- [🔗 Live Demo](https://order.clubkitchen.ca/)
+- **Impact:** Powers **many client organizations live across Canada and the USA** from a single flexible platform — the 3.0 replacement for the legacy system. Its data-driven, per-tenant architecture lets the business scale to new brands without duplicating or forking code.
+- [🔗 Live Demo (one of many brands)](https://order.clubkitchen.ca/)
+
+### 🔹 WLA Kiosk App
+
+- **Description:** Built from scratch the **self-service kiosk** experience on the same **multi-tenant white-label platform** — one codebase that any restaurant brand can run on its own hardware, fully branded to that organization. Features a touch-first, walk-up ordering flow and integrated terminal card payments, so customers can browse, customize, and pay entirely on their own.
+- **Tech Stack:** React Native, Expo, TypeScript, TanStack Query, Zustand, Firebase, Stripe Terminal
+- **Impact:** Deployed across **multiple client organizations in Canada and the USA**, bringing unattended self-service ordering to in-store locations — every brand served from the same shared, data-driven codebase.
+
+### 🔹 WLA POS App
+
+- **Description:** Built from scratch the **staff-facing point-of-sale (POS)** app on the same **multi-tenant white-label platform**, giving front-of-house teams a fast, purpose-built tool to take and manage in-person orders. Supports cart management and integrated pinpad/terminal payments, with each organization's branding, menus, and configuration resolved per tenant at runtime.
+- **Tech Stack:** React Native, Expo, TypeScript, TanStack Query, Zustand, Firebase, Stripe Terminal
+- **Impact:** Runs for **many client organizations across Canada and the USA** from a single codebase — onboarding a new brand's POS requires configuration, not new code.
 
 
 ### 🔹 Smart KDS — Kitchen Display System (Internal Tool)
