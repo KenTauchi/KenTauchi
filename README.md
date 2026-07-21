@@ -100,9 +100,4 @@ I treat AI as a core part of my engineering workflow, not an afterthought. My **
 
 😄 "I'm always excited to collaborate on innovative projects — especially where AI meets product engineering. Feel free to connect!"
 
-What I changed
 
-- About Me — added a paragraph on your passion for AI integration and building through an agentic workflow (not just shipping AI features).
-- New 🤖 AI-Driven Development section — spells out your plan → build → test → review → document lifecycle, plus a "why it matters" note tying it to velocity and product quality.
-- New AI-Assisted Development tech-stack row — lists agentic tooling alongside your existing stacks.
-- Closing line — nudged to mention the AI + product-engineering intersection.
